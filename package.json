@@ -1,6 +1,6 @@
 {
   "name": "decompress-zip",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "Extract files from a ZIP archive",
   "main": "lib/decompress-zip.js",
   "scripts": {
@@ -27,7 +27,7 @@
   "dependencies": {
     "binary": "^0.3.0",
     "graceful-fs": "^4.1.3",
-    "mkpath": "git://github.com:jonvuri/mkpath.git#b97ac24541e90fa7f6972139cb65d596a0072042",
+    "mkpath": "git://github.com:jonvuri/mkpath.git#5a6cd1a3897ec72fc8d0af7674835deb7e4e3c2c",
     "nopt": "^3.0.1",
     "q": "^1.1.2",
     "readable-stream": "^1.1.8",
